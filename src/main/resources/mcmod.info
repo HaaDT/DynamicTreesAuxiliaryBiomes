@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dtauxiliary",
+  "name": "Dynamic Trees for Auxiliary Biomes",
+  "description": "Replaces the trees added by Auxiliary Biomes with dynamic versions.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-auxiliary-biomes",
+  "updateUrl": "https://github.com/HaaDT/DynamicTreesAuxiliaryBiomes",
+  "authorList": ["Haadt"],
+  "credits": "[HarleyOConnor, Ferreusveritas, without their code examples I never would've gotten this far. Coderbot for making Auxiliary Biomes mod.",
+  "logoFile": "dtab-logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

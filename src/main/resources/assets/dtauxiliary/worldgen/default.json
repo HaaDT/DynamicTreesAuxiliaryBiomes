@@ -1,0 +1,30 @@
+[
+  {
+    "select" : { "name": "auxbiomes:forested_island" },
+    "apply": {
+      "cancelvanilla": true,
+      "species" : {
+        "random" : {
+          "dynamictrees:oak" : 7,
+          "dynamictrees:birch" : 4
+        }
+      },
+      "density" : [ 1.0 ],
+      "chance": 1.0
+    }
+  },
+  {
+    "select" : { "name": "auxbiomes:white_forest" },
+    "apply": {
+      "cancelvanilla": true,
+      "species" : {
+        "random" : {
+          "dynamictrees:oak" : 7,
+          "dynamictrees:birch" : 4
+        }
+      },
+      "density" : [ 2.0 ],
+      "chance": 1.0
+    }
+  }
+]
